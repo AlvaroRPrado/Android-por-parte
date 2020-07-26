@@ -1,3 +1,11 @@
 # Android-por-parte
 
+São elemento solto neste resitorio
 
+Elemento basico de interface
+ViewGrupo: Principais layouts
+Interação entre layout e codigo
+Propriendade gerais de interface
+Activity e ciclo de vida
+Entendendo as intents
+Debugando o  aplicativo
